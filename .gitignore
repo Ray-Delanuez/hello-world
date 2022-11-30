@@ -1,2 +1,6 @@
-# Project exclude paths
-/out/
+.idea/*
+!.idea/libraries/
+!.idea/artifacts/
+!.idea/misc.xml
+!.idea/modules.xml
+out/
